@@ -1,4 +1,10 @@
-dependencies :
+my dotfiles linux rice
+
+os : Kali Linux
+WM : ???
+DE : xfce
+
+*install this dependencies :
 cava
 tty-clock
 polybar
